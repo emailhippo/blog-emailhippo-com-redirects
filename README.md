@@ -1,1 +1,1 @@
-# blog-emailhippo-com-redirects
+# Blog Redirects
